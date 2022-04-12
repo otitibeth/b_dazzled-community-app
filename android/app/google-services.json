@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "961710514188",
+    "project_id": "b-dazzled",
+    "storage_bucket": "b-dazzled.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961710514188:android:b0a4b6c8738fe8d745ce29",
+        "android_client_info": {
+          "package_name": "com.example.b_dazzled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961710514188-bbn4shrg670glegm8r0a0vqb8tcb50kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0EwsIfB1WhNb8qArVlHSRDqurZVNwons"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961710514188-bbn4shrg670glegm8r0a0vqb8tcb50kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
